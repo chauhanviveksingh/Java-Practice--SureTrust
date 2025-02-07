@@ -1,4 +1,4 @@
-package Java_Assignment.Day_06;
+package Day_06;
 
 public class WhileLoop {
     public static void main(String [] args) {
