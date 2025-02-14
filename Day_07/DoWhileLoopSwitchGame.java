@@ -24,5 +24,7 @@ do{
     }
 
 } while(option !=4);
+sc.close();
+
     }
 }
