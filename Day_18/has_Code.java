@@ -14,5 +14,5 @@ public class has_Code {
 // String literals
 // String Object
 // Why strings in java is immutable?
-
+// String pool
 
