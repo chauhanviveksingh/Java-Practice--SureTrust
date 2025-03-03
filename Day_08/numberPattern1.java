@@ -14,8 +14,8 @@ public class numberPattern1 {
             }
             System.out.println();
         }
+        sc.close();
     }
-    
 }
 
 // Output
