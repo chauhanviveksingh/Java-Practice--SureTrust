@@ -31,3 +31,7 @@ public class stringBufferAndstringBuilderExample {
     }
     
 }
+
+// StringBuffer is a class in Java that represents a mutable sequence of characters.
+// meaning that you can change the contents of the buffer without creating a new object.
+// It provides an alternative to the immutable String class, allowing you to modify the contents od a string without creating a new object every time.
