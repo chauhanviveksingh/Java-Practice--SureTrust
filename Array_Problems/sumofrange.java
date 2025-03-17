@@ -7,9 +7,9 @@ public class sumofrange {
 
         int sum=0;
 
-        // for(int i=m; i<=n; i++){
-        //     sum += i;
-        // }
+        for(int i=m; i<=n; i++){
+            sum += i;
+        }
 System.out.println(sum);
     }
     
