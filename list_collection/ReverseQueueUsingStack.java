@@ -28,9 +28,6 @@ public class ReverseQueueUsingStack {
         reverse(q);
         System.out.println("Reversed : "+q );
 
-
-
     }
-    
     
 }
